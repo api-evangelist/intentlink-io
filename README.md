@@ -1,4 +1,4 @@
-# intentlink-io
+# IntentLink
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-intentlink-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://intentlink.io/
+IntentLink provides an AI‑native ad monetization platform that lets AI agent developers and publishers generate revenue from conversational interactions. It offers MCP (Model Context Protocol) servers and pre‑built advertising Skills to integrate ad networks, detect monetizable user intents in real time, and serve contextual ads. The service includes revenue‑sharing pricing, compliance with GDPR and CCPA, and analytics dashboards.
+
+**Areas:** AI Monetization · Ad Networks · Conversational AI · MCP Protocol · Skills · Revenue Sharing · Compliance · Analytics
+
+## IntentLink on APIs.io
+
+Everything profiled for IntentLink is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/intentlink-io/](https://apis.io/providers/intentlink-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [IntentLink API](https://apis.io/apis/intentlink-io/intentlink-api/) — API for IntentLink platform as described in the developer documentation.
+- [IntentLink Advertisers API](https://apis.io/apis/intentlink-io/intentlink-io-advertisers-api/) — The advertisers API from IntentLink — 3 operation(s) for advertisers.
+- [IntentLink Auth API](https://apis.io/apis/intentlink-io/intentlink-io-auth-api/) — The auth API from IntentLink — 1 operation(s) for auth.
+- [IntentLink Conversions API](https://apis.io/apis/intentlink-io/intentlink-io-conversions-api/) — The conversions API from IntentLink — 1 operation(s) for conversions.
+- [IntentLink Dashboard API](https://apis.io/apis/intentlink-io/intentlink-io-dashboard-api/) — The dashboard API from IntentLink — 1 operation(s) for dashboard.
+- [IntentLink Event Search API](https://apis.io/apis/intentlink-io/intentlink-io-event-search-api/) — The event-search API from IntentLink — 2 operation(s) for event-search.
+- [IntentLink Events API](https://apis.io/apis/intentlink-io/intentlink-io-events-api/) — The events API from IntentLink — 2 operation(s) for events.
+- [IntentLink Health API](https://apis.io/apis/intentlink-io/intentlink-io-health-api/) — The health API from IntentLink — 1 operation(s) for health.
+- [IntentLink Job API](https://apis.io/apis/intentlink-io/intentlink-io-job-api/) — The job API from IntentLink — 2 operation(s) for job.
+- [IntentLink Platform API](https://apis.io/apis/intentlink-io/intentlink-io-platform-api/) — The platform API from IntentLink — 23 operation(s) for platform.
+- [IntentLink Product Recommendations API](https://apis.io/apis/intentlink-io/intentlink-io-product-recommendations-api/) — The product-recommendations API from IntentLink — 1 operation(s) for product-recommendations.
+- [IntentLink Recommendations API](https://apis.io/apis/intentlink-io/intentlink-io-recommendations-api/) — The recommendations API from IntentLink — 2 operation(s) for recommendations.
+- [IntentLink Root API](https://apis.io/apis/intentlink-io/intentlink-io-root-api/) — The root API from IntentLink — 1 operation(s) for root.
+- [IntentLink Shopping Search API](https://apis.io/apis/intentlink-io/intentlink-io-shopping-search-api/) — The shopping-search API from IntentLink — 2 operation(s) for shopping-search.
+- [IntentLink Stripe Webhooks API](https://apis.io/apis/intentlink-io/intentlink-io-stripe-webhooks-api/) — The stripe-webhooks API from IntentLink — 1 operation(s) for stripe-webhooks.
+- [IntentLink Travel Search API](https://apis.io/apis/intentlink-io/intentlink-io-travel-search-api/) — The travel-search API from IntentLink — 3 operation(s) for travel-search.
+- [IntentLink User Agents API](https://apis.io/apis/intentlink-io/intentlink-io-user-agents-api/) — The user-agents API from IntentLink — 3 operation(s) for user-agents.
+- [IntentLink User Clicks API](https://apis.io/apis/intentlink-io/intentlink-io-user-clicks-api/) — The user-clicks API from IntentLink — 1 operation(s) for user-clicks.
+- [IntentLink User Commissions API](https://apis.io/apis/intentlink-io/intentlink-io-user-commissions-api/) — The user-commissions API from IntentLink — 1 operation(s) for user-commissions.
+- [IntentLink User Withdrawals API](https://apis.io/apis/intentlink-io/intentlink-io-user-withdrawals-api/) — The user-withdrawals API from IntentLink — 6 operation(s) for user-withdrawals.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [IntentLink Agentic Access](https://apis.io/agentic-access/intentlink-io/intentlink-io-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Intentlink Io Context](https://apis.io/jsonld/intentlink-io/intentlink-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [IntentLink API Rules](https://apis.io/rules/intentlink-io/intentlink-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [IntentLink Authentication](https://apis.io/security/intentlink-io/intentlink-io-authentication/)
+- [IntentLink Domain Security](https://apis.io/security/intentlink-io/intentlink-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://intentlink.io/)
+- [Documentation](https://intentlink.io/developers)
+- [Blog](https://intentlink.io/blog)
+- [Terms of service](https://intentlink.io/terms)
+- [Privacy policy](https://intentlink.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.5** — thin · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 48.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 35.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/intentlink-io/](https://apis.io/providers/intentlink-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IntentLink: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/intentlink-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
